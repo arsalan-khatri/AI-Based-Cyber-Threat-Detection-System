@@ -1,2 +1,2 @@
 > **Note on Datasets:** Due to GitHub's file size limits, the original dataset files are not hosted in this repository. 
-> You can download the raw data from their official sources or my cloud drive: [CIC-IDS-2017 Dataset](YOUR_DRIVE_LINK_HERE) and [UNSW-NB15 Dataset](YOUR_DRIVE_LINK_HERE).
+> You can download the raw data from their official sources or my cloud drive: [CIC-IDS-2017 Dataset]([YOUR_DRIVE_LINK_HERE](https://drive.google.com/drive/u/2/folders/19SR0P11wrb6BbwijebZIl-C7sm4b2X7g)) and [UNSW-NB15 Dataset]([YOUR_DRIVE_LINK_HER](https://drive.google.com/drive/u/2/folders/1afDmHPPE1E1YmfINlEkVzfxB0rn1_BzA)E).
